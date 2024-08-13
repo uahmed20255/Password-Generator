@@ -4,7 +4,7 @@
 
 import random 
 
-print("hello")
+print("hello \n")
 
 print ("Here are the list of passwords!! \n")
 
