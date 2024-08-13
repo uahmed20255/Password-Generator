@@ -1,3 +1,7 @@
+
+
+
+
 import random 
 
 
@@ -33,6 +37,7 @@ for x in range(amount):
   password = "".join(random.sample(all, length))
   print (password)
   print("\n\n")
+  
 
 
 
